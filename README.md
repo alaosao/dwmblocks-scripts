@@ -1,6 +1,6 @@
 div align="center">
 
-# Collection of DwmBlocks scripts
+# Collection of DWMBlocks Scripts
 
 </div>
 <p align="center">
